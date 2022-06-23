@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringdataR2dbcApplication
+class R2dbcApplication
 
 fun main(args: Array<String>) {
-    runApplication<SpringdataR2dbcApplication>(*args)
+    runApplication<R2dbcApplication>(*args)
 }
